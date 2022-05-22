@@ -17,5 +17,8 @@ functionality of redux prform now as all reducers codes put in index.js in reduc
 
 //connect redux with react app
 
-//call functions
+//call functions 
+
+
+
 
